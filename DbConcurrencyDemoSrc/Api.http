@@ -1,0 +1,26 @@
+@DbConcurrencyDemoApp_HostAddress = https://localhost:7112
+
+###
+
+POST {{DbConcurrencyDemoApp_HostAddress}}/demo-concurrency-no-stock-change
+
+###
+
+POST {{DbConcurrencyDemoApp_HostAddress}}/demo-concurrency-with-stock-change
+
+###
+
+
+###
+
+POST {{DbConcurrencyDemoApp_HostAddress}}/demo-with-rowversion
+
+###
+
+POST {{DbConcurrencyDemoApp_HostAddress}}/reset-products
+
+###
+
+POST {{DbConcurrencyDemoApp_HostAddress}}/reset-products-with-version
+
+###

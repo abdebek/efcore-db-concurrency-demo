@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DbConcurrencyDemoSrc/bin/Debug/net9.0
+/DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/bin/Debug/net9.0
+/DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/obj
+/DbConcurrencyDemoSrc/obj
+/DbConcurrencyDemoSrc/.vs
