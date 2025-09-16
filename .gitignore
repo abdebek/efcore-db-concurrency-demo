@@ -7,3 +7,10 @@
 /DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/obj
 /DbConcurrencyDemoSrc/obj
 /DbConcurrencyDemoSrc/.vs
+src/obj
+src/ConcurrencyDemo.Tests/ConcurrencyDemo.Tests.csproj
+src/ConcurrencyDemo.Tests/ConcurrencyTests.cs
+src/ConcurrencyDemo.Tests/bin
+src/ConcurrencyDemo.Tests/obj
+src/bin
+src/.vs
