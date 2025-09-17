@@ -2,8 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/DbConcurrencyDemoSrc/bin/Debug/net9.0
-/DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/bin/Debug/net9.0
+/DbConcurrencyDemoSrc/bin
+/DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/bin/
 /DbConcurrencyDemoSrc/ConcurrencyDemo.Tests/obj
 /DbConcurrencyDemoSrc/obj
 /DbConcurrencyDemoSrc/.vs
@@ -14,3 +14,5 @@ src/ConcurrencyDemo.Tests/bin
 src/ConcurrencyDemo.Tests/obj
 src/bin
 src/.vs
+DbConcurrencyDemoSlide/node_modules
+**/**/node_modules
